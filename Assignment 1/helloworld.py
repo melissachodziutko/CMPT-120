@@ -12,7 +12,4 @@ print("Hellow orld")
 
     
     
-    
-    
-    
 main()
