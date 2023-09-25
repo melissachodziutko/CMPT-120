@@ -42,7 +42,7 @@ def main():
     print(numbers2[5])
     
     #Here's a fun one: This is a list of everyone's name. Find where yours is and print the index of your name
-    students = ["Achorn, Cameron", "Brown, Evan", "Catalano, Alexander", "Cianfoni, Alexander", "Delorey, Tyler","Edmonds, Jonah","Elliott, Dustin","Faix, Joseph","Fleischman, Connor","Fuerte, Caroline","Gidos, Hannah","Lavitt, Samuel","Lichstein, Harris","Longo, Nicholas","Martinez, David","Muggeri, Mattia","Munger, Ryan","Nealon, Ryan","Paulus, Natalie","Penn, Riley","Potenza, Amanda","Prochet, Carlisl","Putkaradze, Saba","Quayson, Eugene","Rietti, Cristina","Seeley, Shane","Sweeney, Quinn","Tata, Mathew","Taylor, Julia","Tuozzo, Michael"]
+    students = ["Tobi","Brad","Tiff","Oscar","Tommy","Kyra","Matt C","Morgan","Haley","Matt F","Sydney","Pedro","Nathan","Bryce","Chris","Iram","Pat","Maddie","Daniel","Tomas","Gabriella","Ben","Lucian","Dean","Jack","Natalie","Athina"]
     print(students[?])
 main()
     
