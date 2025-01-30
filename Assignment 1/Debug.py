@@ -3,14 +3,14 @@
 #Fix any syntax errors you can spot and fulfill any other requests
 def main():
     print(hello)
-    print(3)
+    print(3")
     print(10 + 10)
 
 
     #insert your name in this string below
     print("My name is Melissa")
     #this is printing a string and not an integer. how do we fix it?
-    print(50)
+    print("50")
     #make sure this one prints out the sum
     print("2 + 2")
 
