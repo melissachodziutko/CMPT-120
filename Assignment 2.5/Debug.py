@@ -41,9 +41,6 @@ def main():
     print(numbers2[3])
     print(numbers2[5])
     
-    #Here's a fun one: This is a list of everyone's name. Find where yours is and print the index of your name
-    students = ["Tobi","Brad","Tiff","Oscar","Tommy","Kyra","Matt C","Morgan","Haley","Matt F","Sydney","Pedro","Nathan","Bryce","Chris","Iram","Pat","Maddie","Daniel","Tomas","Gabriella","Ben","Lucian","Dean","Jack","Natalie","Athina"]
-    print(students[?])
 main()
     
     
